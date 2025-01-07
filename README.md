@@ -1,14 +1,28 @@
 # Algorithms
-This repository contains a wide variety of algorithmic solutions. Each of the following files match these techniques.
 
-Greedy: greedy.py, more_greedy.py
+This repository contains a variety of algorithmic solutions, each corresponding to different algorithmic techniques. The following files represent solutions to classic problems based on the respective techniques.
 
-Divide and Conquer: merge_sort.py, line_intersections.py
+## Algorithms Included
 
-Dynamic Programming: weighted_intervals.py, knapsack.py
+### Greedy
+- **greedy.py**: Implementation of a greedy algorithm for a specific problem.
+- **more_greedy.py**: Another greedy approach to a different problem.
 
-Network Flow: ford_fulkerson.py, matching.py
+### Divide and Conquer
+- **merge_sort.py**: Implementation of the merge sort algorithm.
+- **line_intersections.py**: A solution to find intersections of lines using divide and conquer.
 
-Randomization: max_3sat.py
+### Dynamic Programming
+- **weighted_intervals.py**: Solves the weighted interval scheduling problem.
+- **knapsack.py**: Solves the 0/1 knapsack problem using dynamic programming.
 
-Other: dfs.py
+### Network Flow
+- **ford_fulkerson.py**: Implementation of the Ford-Fulkerson algorithm for computing maximum flow in a flow network.
+- **matching.py**: Solves the maximum bipartite matching problem.
+
+### Randomization
+- **max_3sat.py**: A randomized algorithm solution to the Max 3-SAT problem.
+
+### Other
+- **dfs.py**: Implementation of the depth-first search (DFS) algorithm.
+
